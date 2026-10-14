@@ -14,3 +14,4 @@ COACHTECH 教材 Tutorial 9-3「データベース操作ハンズオン演習」
 
 ## 動作確認
 - ローカルホストにアクセスし、Web画面にて表示されることを確認しました。
+- <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/b30d30b1-249c-4550-b270-ca484fdb2345" />
